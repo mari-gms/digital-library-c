@@ -13,13 +13,13 @@ O sistema funciona como uma biblioteca digital no terminal, permitindo cadastrar
 
 ## 📷 Screenshots
 
-### Menu principal
-
-![Menu principal](docs/menu.png)
-
 ### Cadastro de usuário
 
 ![Cadastro](docs/cadastro.png)
+
+### Menu principal
+
+![Menu principal](docs/menu.png)
 
 ## ▶️ Como executar
 
